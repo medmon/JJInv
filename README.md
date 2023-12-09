@@ -9,3 +9,7 @@ Version 0.0.02
 
 Version 0.0.03
 - Added ItemBase.h and ItemBase.cpp
+
+Version 0.0.04
+- Created InteractionInterface and InterfaceTestActor classes
+
