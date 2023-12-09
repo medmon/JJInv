@@ -27,6 +27,7 @@ Version 0.0.07
 Version 0.0.08
 -  Implemented interaction functions on Character
 
-
+Version 0.0.09
+- Implemented Interaction on Interface Test Actor
 
 
