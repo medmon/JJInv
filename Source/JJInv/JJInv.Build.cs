@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Shooter : ModuleRules
+public class JJInv : ModuleRules
 {
-	public Shooter(ReadOnlyTargetRules Target) : base(Target)
+	public JJInv(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
