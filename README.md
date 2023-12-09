@@ -30,4 +30,6 @@ Version 0.0.08
 Version 0.0.09
 - Implemented Interaction on Interface Test Actor
 
+Version 0.0.10
+- Added InteractAction and E key for IA_Interact
 
