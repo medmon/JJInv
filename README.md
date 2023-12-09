@@ -16,3 +16,6 @@ Version 0.0.04
 Version 0.0.05
 - Filled out InteractionInterface header
 
+Version 0.0.06
+- tidied up JJInvCharacter.h 
+- Implemented PerformInteractionCheck in JJInvCharacter.cpp
