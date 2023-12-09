@@ -13,3 +13,6 @@ Version 0.0.03
 Version 0.0.04
 - Created InteractionInterface and InterfaceTestActor classes
 
+Version 0.0.05
+- Filled out InteractionInterface header
+
