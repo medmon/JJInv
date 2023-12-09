@@ -23,3 +23,10 @@ Version 0.0.06
 Version 0.0.07
 - Refactored Get world position of crosshair into function GetCrosshairWorldPosition
 - Set Line trace start and end based on World Position and World Direction of Crosshair
+
+Version 0.0.08
+-  Implemented interaction functions on Character
+
+
+
+
