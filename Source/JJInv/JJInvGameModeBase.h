@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "ShooterGameModeBase.generated.h"
+#include "JJInvGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class SHOOTER_API AShooterGameModeBase : public AGameModeBase
+class JJINV_API AJJInvGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
