@@ -29,6 +29,7 @@ enum class EItemType : uint8
 	Weapon,
 	Shield,
 	Spell,
+	Ammo,
 	Consumable,
 	Quest,
 	Mundane
@@ -37,7 +38,7 @@ enum class EItemType : uint8
 USTRUCT()
 struct FItemStatistics
 {
-	GENERATED_USTRUCT_BODY()
+	GENERATED_BODY()
 
 	UPROPERTY(EditAnywhere)
 	float SellValue;
@@ -55,7 +56,7 @@ struct FItemStatistics
 USTRUCT()
 struct FItemTextData
 {
-	GENERATED_USTRUCT_BODY()
+	GENERATED_BODY()
 
 	UPROPERTY(EditAnywhere)
 	FText Name;
@@ -76,7 +77,7 @@ struct FItemTextData
 USTRUCT()
 struct FItemNumericData
 {
-	GENERATED_USTRUCT_BODY()
+	GENERATED_BODY()
 
 	UPROPERTY(EditAnywhere)
 	float Weight;
@@ -91,7 +92,7 @@ struct FItemNumericData
 USTRUCT()
 struct FItemAssetData
 {
-	GENERATED_USTRUCT_BODY()
+	GENERATED_BODY()
 
 	UPROPERTY(EditAnywhere)
 	UTexture2D* Icon;
@@ -104,7 +105,7 @@ struct FItemAssetData
 USTRUCT()
 struct FItemData : public FTableRowBase
 {
-	GENERATED_USTRUCT_BODY()
+	GENERATED_BODY()
 
 	UPROPERTY(EditAnywhere, Category="Item Data")
 	FName ItemID;
