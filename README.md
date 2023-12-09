@@ -33,3 +33,5 @@ Version 0.0.09
 Version 0.0.10
 - Added InteractAction and E key for IA_Interact
 
+Version 0.0.11
+- Configured IA_Interact for a single keypress
