@@ -19,3 +19,7 @@ Version 0.0.05
 Version 0.0.06
 - tidied up JJInvCharacter.h 
 - Implemented PerformInteractionCheck in JJInvCharacter.cpp
+
+Version 0.0.07
+- Refactored Get world position of crosshair into function GetCrosshairWorldPosition
+- Set Line trace start and end based on World Position and World Direction of Crosshair
