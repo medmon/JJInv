@@ -35,3 +35,9 @@ Version 0.0.10
 
 Version 0.0.11
 - Configured IA_Interact for a single keypress
+
+Version 0.0.12
+- Created JJInvHUD class
+- Created MainMenu class
+- Created InteractionWidget class
+- Filled in JJInvHUD.h and .cpp with functions for the HUD
