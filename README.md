@@ -47,3 +47,7 @@ Version 0.0.13
 
 Version 0.0.14
 - Filled out InteractionWidget header and source files
+
+Version 0.0.15
+- Created visual elements for widgets in UE Editor
+- Hooked up the InteractionWidget in code
