@@ -54,3 +54,6 @@ Version 0.0.15
 
 Version 0.0.16
 - Hooked up JJInvHUD in Editor
+
+Version 0.0.17
+- Created Inventory Panel visuals in Editor
