@@ -44,3 +44,6 @@ Version 0.0.12
 
 Version 0.0.13
 - Filled out MainMenu header and source file TODO: NativeOnDrop
+
+Version 0.0.14
+- Filled out InteractionWidget header and source files
