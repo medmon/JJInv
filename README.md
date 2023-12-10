@@ -51,3 +51,6 @@ Version 0.0.14
 Version 0.0.15
 - Created visual elements for widgets in UE Editor
 - Hooked up the InteractionWidget in code
+
+Version 0.0.16
+- Hooked up JJInvHUD in Editor
