@@ -41,3 +41,6 @@ Version 0.0.12
 - Created MainMenu class
 - Created InteractionWidget class
 - Filled in JJInvHUD.h and .cpp with functions for the HUD
+
+Version 0.0.13
+- Filled out MainMenu header and source file TODO: NativeOnDrop
