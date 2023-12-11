@@ -57,3 +57,6 @@ Version 0.0.16
 
 Version 0.0.17
 - Created Inventory Panel visuals in Editor
+
+Version 0.0.18
+- Added Pickup class
