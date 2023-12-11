@@ -60,3 +60,7 @@ Version 0.0.17
 
 Version 0.0.18
 - Added Pickup class
+
+Version 0.0.19
+- Created InventoryComponent class
+
