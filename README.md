@@ -64,3 +64,8 @@ Version 0.0.18
 Version 0.0.19
 - Created InventoryComponent class
 
+Version 0.0.20
+- Added JJInvPlayerController class
+- Added InventoryItemSlot class
+- Added InventoryTooltip class
+
