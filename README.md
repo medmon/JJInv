@@ -69,3 +69,5 @@ Version 0.0.20
 - Added InventoryItemSlot class
 - Added InventoryTooltip class
 
+Version 0.0.21
+- Added visuals for Inventory Panel
