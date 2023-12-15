@@ -71,3 +71,6 @@ Version 0.0.20
 
 Version 0.0.21
 - Added visuals for Inventory Panel
+
+Version 0.0.22
+- Handle Stackable Items
