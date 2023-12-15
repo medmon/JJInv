@@ -31,7 +31,6 @@ enum class EItemType : uint8
 	Spell,
 	Ammo,
 	Consumable,
-	Quest,
 	Mundane
 };
 
@@ -87,6 +86,9 @@ struct FItemNumericData
 
 	UPROPERTY(EditAnywhere)
 	bool bIsStackable;
+
+	UPROPERTY(EditAnywhere, Category="Item Data")
+	bool bIsQuestItem;
 };
 
 USTRUCT()
@@ -112,6 +114,7 @@ struct FItemData : public FTableRowBase
 	
 	UPROPERTY(EditAnywhere, Category="Item Data")
 	EItemType ItemType;
+
 	
 	UPROPERTY(EditAnywhere, Category="Item Data")
 	EItemQuality ItemQuality;
