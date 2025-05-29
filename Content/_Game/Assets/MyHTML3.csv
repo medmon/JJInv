@@ -1,0 +1,22 @@
+---,MemberVar_0
+2,<html>
+4,<head>
+5,    <style>
+6,        <!-- Put the CSS here -->
+7,        .button{
+8,            background-color: aqua;
+9,        }  
+10,    </style>
+11,</head>
+13,<body>
+14,    <h1>My First Interface !</h1>
+15,"    <button id=""firstbutton"" class=""button"">Click on me !</button>"
+16,    <script>
+17,        /*Put the javascript here */
+18,"        let buttonAlert = document.getElementById(""firstbutton"");"
+19,        buttonAlert.onclick = function(){
+20,"            alert(""you click on me !"")"
+21,        };
+23,    </script>   
+24,</body>
+26,</html>
